@@ -15,7 +15,8 @@
   This is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. The application will also function offline.
 
   Live Link :https://polar-garden-33430.herokuapp.com/
-  <img src="https://user-images.githubusercontent.com/92957388/150263050-58ce9577-07d2-4cb5-8da2-120e21383e42.PNG" alt="Online">
+  ![image](https://user-images.githubusercontent.com/88735341/150915671-20710909-db69-471e-98a3-965da227e78a.png)
+
 
   ## Installation
   *Steps required to install project and how to get the development environment running:*

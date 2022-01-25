@@ -1,4 +1,4 @@
-# textEditorGo
+# textEditor
 ![GitHub followers](https://img.shields.io/github/followers/adipure?style=social) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Abraham-Solis/https://github.com/adipure)
 
